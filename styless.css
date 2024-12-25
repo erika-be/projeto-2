@@ -1,0 +1,64 @@
+* {
+  font-family: "Oswald";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  background-color: #e0e4ed;
+  margin-left: 949px;
+  width:491px;
+  height:901px;
+}
+
+
+a {
+  width: 60;
+  height: 41;
+ padding-top: 24px;
+  margin-left: 41px;
+  line-height: 41.5px;
+  font-size: 28px;
+  font-weight: 400;
+  border: none;
+  color: #525971;
+}
+ 
+main{display: inline-block;}
+
+img{
+  opacity:100%;
+  margin-top:216px;
+  margin-left:22px;
+}
+
+h1{
+  width: 368px;
+  height: 160px;
+  font-size: 70px;
+  font-weight: 400;
+  color: #525971;
+  margin-top: 381px;
+  margin-left: 136px;
+
+}
+
+p{
+  width: 540px;
+  height: 144px;
+  font-size: 28px;
+  font-weight: 400;
+  color: #5d5d7d;
+  opacity: 60%;
+  margin-top: 15px;
+  margin-left: 136px;
+}
+
+.img-2{
+  width:115.54px;
+  height: 410.33px;
+  margin-top: 366.62;
+  margin-left: 807px;
+}
+
